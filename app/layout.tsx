@@ -7,7 +7,7 @@ import ConvexClientProvider from '@/components/providers/convex-provider'
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
-  title: 'Jotion',
+  title: 'Totion',
   description: 'The connected workspace allows co-workers collabrate on editing same page.',
   icons: {
     icon: [
